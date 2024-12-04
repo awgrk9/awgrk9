@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a DnD Dice Roll Image Capture Application
+- 🌱 I’m currently learning python
+- 💬 Ask me about music
+- 📫 How to reach me: andygerth1@gmail.com
+- 😄 Pronouns: he/him
+
 <!--
 **awgrk9/awgrk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
